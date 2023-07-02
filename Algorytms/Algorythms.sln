@@ -5,9 +5,11 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorythmsTest", "AlgorythmsTest.csproj", "{47B0C82C-93EE-463B-9306-0DAAC5DEEDD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorythmsSort", "..\AlgorythmsSort\AlgorythmsSort.csproj", "{3ECFB6FD-75F5-41AE-9FF3-7334F4432DC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorythmsSort", "..\AlgorythmsSort\AlgorythmsSort.csproj", "{3ECFB6FD-75F5-41AE-9FF3-7334F4432DC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorythmsSerch", "..\AlgorythmsSearch\AlgorythmsSearch.csproj", "{B058398C-D92A-456C-902D-F950AAE0BA77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorythmsSerch", "..\AlgorythmsSerch\AlgorythmsSerch.csproj", "{B058398C-D92A-456C-902D-F950AAE0BA77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorythmsSerach", "..\AlgorythmsSearch\AlgorythmsSerach.csproj", "{18B402E3-2E66-4617-8A58-18693D845857}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{B058398C-D92A-456C-902D-F950AAE0BA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B058398C-D92A-456C-902D-F950AAE0BA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B058398C-D92A-456C-902D-F950AAE0BA77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B402E3-2E66-4617-8A58-18693D845857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B402E3-2E66-4617-8A58-18693D845857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B402E3-2E66-4617-8A58-18693D845857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B402E3-2E66-4617-8A58-18693D845857}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
