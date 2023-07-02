@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Diagnostics;
 using AlgorythmsSort;
-using AlgorythmsSerch;
+using AlgorythmsSearch;
 public class Program
 {
     public static void Main(string[] args)
