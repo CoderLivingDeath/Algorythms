@@ -39,8 +39,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "AlgorythmsSerach >= 1.0.0",
-      "AlgorythmsSort >= 1.0.0",
-      "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSerch\\AlgorythmsSerch.csproj"
+      "AlgorythmsSort >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -79,9 +78,6 @@
             "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSearch\\AlgorythmsSerach.csproj": {
               "projectPath": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSearch\\AlgorythmsSerach.csproj"
             },
-            "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSerch\\AlgorythmsSerch.csproj": {
-              "projectPath": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSerch\\AlgorythmsSerch.csproj"
-            },
             "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSort\\AlgorythmsSort.csproj": {
               "projectPath": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSort\\AlgorythmsSort.csproj"
             }
@@ -116,16 +112,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Не удалось найти проект \"C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSerch\\AlgorythmsSerch.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
-      "libraryId": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSerch\\AlgorythmsSerch.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  }
 }
