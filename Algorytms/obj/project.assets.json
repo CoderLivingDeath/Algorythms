@@ -2,14 +2,14 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "AlgorythmsSerch/1.0.0": {
+      "AlgorythmsSerach/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/AlgorythmsSerch.dll": {}
+          "bin/placeholder/AlgorythmsSerach.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AlgorythmsSerch.dll": {}
+          "bin/placeholder/AlgorythmsSerach.dll": {}
         }
       },
       "AlgorythmsSort/1.0.0": {
@@ -25,10 +25,10 @@
     }
   },
   "libraries": {
-    "AlgorythmsSerch/1.0.0": {
+    "AlgorythmsSerach/1.0.0": {
       "type": "project",
-      "path": "../AlgorythmsSerch/AlgorythmsSerch.csproj",
-      "msbuildProject": "../AlgorythmsSerch/AlgorythmsSerch.csproj"
+      "path": "../AlgorythmsSearch/AlgorythmsSerach.csproj",
+      "msbuildProject": "../AlgorythmsSearch/AlgorythmsSerach.csproj"
     },
     "AlgorythmsSort/1.0.0": {
       "type": "project",
@@ -38,8 +38,9 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "AlgorythmsSerch >= 1.0.0",
-      "AlgorythmsSort >= 1.0.0"
+      "AlgorythmsSerach >= 1.0.0",
+      "AlgorythmsSort >= 1.0.0",
+      "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSerch\\AlgorythmsSerch.csproj"
     ]
   },
   "packageFolders": {
@@ -49,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NAEug\\source\\repos\\Algorytms\\AlgorythmsTest.csproj",
+      "projectUniqueName": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\Algorytms\\AlgorythmsTest.csproj",
       "projectName": "AlgorythmsTest",
-      "projectPath": "C:\\Users\\NAEug\\source\\repos\\Algorytms\\AlgorythmsTest.csproj",
+      "projectPath": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\Algorytms\\AlgorythmsTest.csproj",
       "packagesPath": "C:\\Users\\NAEug\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NAEug\\source\\repos\\Algorytms\\obj\\",
+      "outputPath": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\Algorytms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,11 +76,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\NAEug\\source\\repos\\AlgorythmsSerch\\AlgorythmsSerch.csproj": {
-              "projectPath": "C:\\Users\\NAEug\\source\\repos\\AlgorythmsSerch\\AlgorythmsSerch.csproj"
+            "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSearch\\AlgorythmsSerach.csproj": {
+              "projectPath": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSearch\\AlgorythmsSerach.csproj"
             },
-            "C:\\Users\\NAEug\\source\\repos\\AlgorythmsSort\\AlgorythmsSort.csproj": {
-              "projectPath": "C:\\Users\\NAEug\\source\\repos\\AlgorythmsSort\\AlgorythmsSort.csproj"
+            "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSerch\\AlgorythmsSerch.csproj": {
+              "projectPath": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSerch\\AlgorythmsSerch.csproj"
+            },
+            "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSort\\AlgorythmsSort.csproj": {
+              "projectPath": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSort\\AlgorythmsSort.csproj"
             }
           }
         }
@@ -112,5 +116,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSerch\\AlgorythmsSerch.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSerch\\AlgorythmsSerch.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

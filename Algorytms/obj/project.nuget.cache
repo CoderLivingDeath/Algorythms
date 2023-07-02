@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "RG7dFtcHIW1YCglcFl3bKxLS6EynoLILcsgfcw0qEwn4o1EmSuE4M1xTly/XqIulkYHeup+VFSWnjpN8yZaBtw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\NAEug\\source\\repos\\Algorytms\\AlgorythmsTest.csproj",
+  "dgSpecHash": "dGbPMpDeWUDG8gmr0wCWZgUECkbHC6Twfd5vaAy2ri7q1xdzHuMyhxH5ZZd7Mz0Iz+xUD2SOTBobmj8i/PT1FQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\Algorytms\\AlgorythmsTest.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSerch\\AlgorythmsSerch.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSerch\\AlgorythmsSerch.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

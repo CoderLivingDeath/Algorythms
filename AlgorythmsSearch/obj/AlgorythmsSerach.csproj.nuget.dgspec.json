@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSort\\AlgorythmsSort.csproj": {}
+    "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSearch\\AlgorythmsSerach.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSort\\AlgorythmsSort.csproj": {
+    "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSearch\\AlgorythmsSerach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSort\\AlgorythmsSort.csproj",
-        "projectName": "AlgorythmsSort",
-        "projectPath": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSort\\AlgorythmsSort.csproj",
+        "projectUniqueName": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSearch\\AlgorythmsSerach.csproj",
+        "projectName": "AlgorythmsSerach",
+        "projectPath": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSearch\\AlgorythmsSerach.csproj",
         "packagesPath": "C:\\Users\\NAEug\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSort\\obj\\",
+        "outputPath": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSearch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

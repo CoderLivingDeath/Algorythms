@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NAEug\\source\\repos\\AlgorythmsSort\\AlgorythmsSort.csproj",
+      "projectUniqueName": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSort\\AlgorythmsSort.csproj",
       "projectName": "AlgorythmsSort",
-      "projectPath": "C:\\Users\\NAEug\\source\\repos\\AlgorythmsSort\\AlgorythmsSort.csproj",
+      "projectPath": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSort\\AlgorythmsSort.csproj",
       "packagesPath": "C:\\Users\\NAEug\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NAEug\\source\\repos\\AlgorythmsSort\\obj\\",
+      "outputPath": "C:\\Users\\NAEug\\OneDrive\\Документы\\GitHub\\Algorythms\\AlgorythmsSort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
