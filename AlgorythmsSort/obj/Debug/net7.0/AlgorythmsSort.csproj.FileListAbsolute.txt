@@ -1,0 +1,12 @@
+C:\Users\NAEug\source\repos\AlgorythmsSort\bin\Debug\net7.0\AlgorythmsSort.deps.json
+C:\Users\NAEug\source\repos\AlgorythmsSort\bin\Debug\net7.0\AlgorythmsSort.dll
+C:\Users\NAEug\source\repos\AlgorythmsSort\bin\Debug\net7.0\AlgorythmsSort.pdb
+C:\Users\NAEug\source\repos\AlgorythmsSort\obj\Debug\net7.0\AlgorythmsSort.csproj.AssemblyReference.cache
+C:\Users\NAEug\source\repos\AlgorythmsSort\obj\Debug\net7.0\AlgorythmsSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAEug\source\repos\AlgorythmsSort\obj\Debug\net7.0\AlgorythmsSort.AssemblyInfoInputs.cache
+C:\Users\NAEug\source\repos\AlgorythmsSort\obj\Debug\net7.0\AlgorythmsSort.AssemblyInfo.cs
+C:\Users\NAEug\source\repos\AlgorythmsSort\obj\Debug\net7.0\AlgorythmsSort.csproj.CoreCompileInputs.cache
+C:\Users\NAEug\source\repos\AlgorythmsSort\obj\Debug\net7.0\AlgorythmsSort.dll
+C:\Users\NAEug\source\repos\AlgorythmsSort\obj\Debug\net7.0\refint\AlgorythmsSort.dll
+C:\Users\NAEug\source\repos\AlgorythmsSort\obj\Debug\net7.0\AlgorythmsSort.pdb
+C:\Users\NAEug\source\repos\AlgorythmsSort\obj\Debug\net7.0\ref\AlgorythmsSort.dll

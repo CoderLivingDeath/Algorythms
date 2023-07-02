@@ -1,0 +1,12 @@
+C:\Users\NAEug\source\repos\AlgorythmsSerch\bin\Debug\net7.0\AlgorythmsSerch.deps.json
+C:\Users\NAEug\source\repos\AlgorythmsSerch\bin\Debug\net7.0\AlgorythmsSerch.dll
+C:\Users\NAEug\source\repos\AlgorythmsSerch\bin\Debug\net7.0\AlgorythmsSerch.pdb
+C:\Users\NAEug\source\repos\AlgorythmsSerch\obj\Debug\net7.0\AlgorythmsSerch.csproj.AssemblyReference.cache
+C:\Users\NAEug\source\repos\AlgorythmsSerch\obj\Debug\net7.0\AlgorythmsSerch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAEug\source\repos\AlgorythmsSerch\obj\Debug\net7.0\AlgorythmsSerch.AssemblyInfoInputs.cache
+C:\Users\NAEug\source\repos\AlgorythmsSerch\obj\Debug\net7.0\AlgorythmsSerch.AssemblyInfo.cs
+C:\Users\NAEug\source\repos\AlgorythmsSerch\obj\Debug\net7.0\AlgorythmsSerch.csproj.CoreCompileInputs.cache
+C:\Users\NAEug\source\repos\AlgorythmsSerch\obj\Debug\net7.0\AlgorythmsSerch.dll
+C:\Users\NAEug\source\repos\AlgorythmsSerch\obj\Debug\net7.0\refint\AlgorythmsSerch.dll
+C:\Users\NAEug\source\repos\AlgorythmsSerch\obj\Debug\net7.0\AlgorythmsSerch.pdb
+C:\Users\NAEug\source\repos\AlgorythmsSerch\obj\Debug\net7.0\ref\AlgorythmsSerch.dll

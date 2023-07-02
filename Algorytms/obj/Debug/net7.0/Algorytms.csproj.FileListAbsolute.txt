@@ -1,0 +1,15 @@
+C:\Users\NAEug\source\repos\Algorytms\bin\Debug\net7.0\Algorytms.exe
+C:\Users\NAEug\source\repos\Algorytms\bin\Debug\net7.0\Algorytms.deps.json
+C:\Users\NAEug\source\repos\Algorytms\bin\Debug\net7.0\Algorytms.runtimeconfig.json
+C:\Users\NAEug\source\repos\Algorytms\bin\Debug\net7.0\Algorytms.dll
+C:\Users\NAEug\source\repos\Algorytms\bin\Debug\net7.0\Algorytms.pdb
+C:\Users\NAEug\source\repos\Algorytms\obj\Debug\net7.0\Algorytms.csproj.AssemblyReference.cache
+C:\Users\NAEug\source\repos\Algorytms\obj\Debug\net7.0\Algorytms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAEug\source\repos\Algorytms\obj\Debug\net7.0\Algorytms.AssemblyInfoInputs.cache
+C:\Users\NAEug\source\repos\Algorytms\obj\Debug\net7.0\Algorytms.AssemblyInfo.cs
+C:\Users\NAEug\source\repos\Algorytms\obj\Debug\net7.0\Algorytms.csproj.CoreCompileInputs.cache
+C:\Users\NAEug\source\repos\Algorytms\obj\Debug\net7.0\Algorytms.dll
+C:\Users\NAEug\source\repos\Algorytms\obj\Debug\net7.0\refint\Algorytms.dll
+C:\Users\NAEug\source\repos\Algorytms\obj\Debug\net7.0\Algorytms.pdb
+C:\Users\NAEug\source\repos\Algorytms\obj\Debug\net7.0\Algorytms.genruntimeconfig.cache
+C:\Users\NAEug\source\repos\Algorytms\obj\Debug\net7.0\ref\Algorytms.dll

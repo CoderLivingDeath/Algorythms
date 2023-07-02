@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AlgorythmsTest/1.0.0": {
+        "dependencies": {
+          "AlgorythmsSerch": "1.0.0",
+          "AlgorythmsSort": "1.0.0"
+        },
+        "runtime": {
+          "AlgorythmsTest.dll": {}
+        }
+      },
+      "AlgorythmsSerch/1.0.0": {
+        "runtime": {
+          "AlgorythmsSerch.dll": {}
+        }
+      },
+      "AlgorythmsSort/1.0.0": {
+        "runtime": {
+          "AlgorythmsSort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlgorythmsTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AlgorythmsSerch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AlgorythmsSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
