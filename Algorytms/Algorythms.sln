@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorythmsTest", "Algorythm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorythmsSort", "..\AlgorythmsSort\AlgorythmsSort.csproj", "{3ECFB6FD-75F5-41AE-9FF3-7334F4432DC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorythmsSerch", "..\AlgorythmsSerch\AlgorythmsSerch.csproj", "{B058398C-D92A-456C-902D-F950AAE0BA77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorythmsSerch", "..\AlgorythmsSearch\AlgorythmsSearch.csproj", "{B058398C-D92A-456C-902D-F950AAE0BA77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
